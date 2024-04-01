@@ -1,11 +1,5 @@
-// http://bestwebcreator.com/cryptocash/demo/index-dark-particle.html
-// https://codepen.io/yukki/pen/rmmKjM
-
-
 $(function() {
-  /*===================================*
-	03. MENU JS
-	*===================================*/
+
   $(window).on("scroll", function() {
     var scroll = $(window).scrollTop();
 
@@ -16,7 +10,6 @@ $(function() {
     }
   });
 
-  //Main navigation Active Class Add Remove
   $(".navbar-toggler").on("click", function() {
     $("header").toggleClass("active");
   });
@@ -31,14 +24,11 @@ $(function() {
     });
   });
 
-  /*===================================*
-	04. BACKGROUND ANIMATION JS
-	*===================================*/
+
   var $particles_js = $("#banner-bg-effect");
   if ($particles_js.length > 0) {
     particlesJS(
       "banner-bg-effect",
-      // Update your personal code.
       {
         particles: {
           number: {
