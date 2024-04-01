@@ -10,7 +10,7 @@ Coin Tracker revolutionizes the way you manage your cryptocurrency portfolio, of
 
 # EXPLORE YOUR WELL-BEING: HealthHubConnect BE YOUR SERVICE!
 
-*PROJECT ON AZURE:* https://kind-bush-0505c8100.5.azurestaticapps.net/
+*PROJECT ON AZURE:* https://zealous-sky-0f8e5a600.5.azurestaticapps.net/
 
 # PURPOSE
 
@@ -29,19 +29,19 @@ In addition to the operational challenges associated with cryptocurrency managem
 Overall, the fragmented nature of cryptocurrency portfolios, coupled with the need for real-time monitoring, comprehensive analytics, and robust security measures, presents a significant challenge for investors seeking to navigate the complex landscape of digital asset management. Addressing these challenges requires the development of innovative FinTech solutions that offer centralized portfolio tracking, real-time updates, advanced analytics, and enhanced security features to empower investors with the tools and insights they need to succeed in the cryptocurrency market.
 
 # PROBLEM DESCRIPTION
-1. Fragmented Portfolio Management: 
+1. *Fragmented Portfolio Management*: 
 Investors face the challenge of managing their cryptocurrency portfolios scattered across multiple exchanges and wallets. This fragmentation makes it difficult to track and monitor holdings efficiently, leading to inefficiencies and potential oversights in portfolio management.
 
-2. Lack of Real-Time Monitoring: 
+2. *Lack of Real-Time Monitoring*: 
 The dynamic nature of the cryptocurrency market demands real-time updates on price fluctuations, market trends, and regulatory developments. However, investors struggle to access timely information due to the manual process of gathering data from disparate sources, hindering their ability to make informed investment decisions.
 
-3. Limited Analytics Capabilities: 
+3. *Limited Analytics Capabilities*: 
 Investors require comprehensive analytics tools to analyze their portfolio performance, identify trends, and optimize their investment strategies. Yet, the absence of centralized platforms offering advanced analytics features leaves investors without the insights needed to maximize their returns and minimize risks.
 
-4. Security and Privacy Concerns: 
+4. *Security and Privacy Concerns*: 
 The decentralized and pseudonymous nature of cryptocurrencies introduces security vulnerabilities, including hacking and fraud, which pose significant risks to investors' assets and sensitive financial information. Moreover, the lack of standardized security measures across exchanges and wallets increases the likelihood of breaches and losses, undermining investor confidence in the safety of their investments.
 
-5. Cumbersome Manual Processes: 
+5. *Cumbersome Manual Processes*: 
 Managing cryptocurrency portfolios often involves manual data entry and reconciliation, leading to time-consuming and error-prone processes. Without automated solutions to streamline transaction tracking and portfolio management, investors struggle to maintain accurate records and may miss out on valuable opportunities or incur unnecessary losses.
 
 # IDE USED :
